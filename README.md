@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Taher Mabrouk
+# 👋 Hi, I'm Mohamed Taher Mabrouk
 
 🎯 **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
